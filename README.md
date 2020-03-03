@@ -1,2 +1,2 @@
 # elearning-web-api-flask
-python flask-run.py
+python flask_run.py
